@@ -1,0 +1,7 @@
+uvicorn
+pydantic
+python-dotenv
+psycopg2-binary
+sqlalchemy
+pwdlib[argon2]   
+python-jose
